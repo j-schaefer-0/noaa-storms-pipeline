@@ -33,8 +33,8 @@ To run for a specific year:
 
 ## What I learned
 
-automated download and processing of multiple source data that needs merging and joining before further processing
-creating GIT repository and pushing files
+- automated download and processing of multiple source data that needs merging and joining before further processing
+- creating GIT repository and pushing files
 
 
 ## Stack
