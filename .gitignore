@@ -1,0 +1,11 @@
+# Ignore all downloaded and processed data
+data/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editor noise
+.vscode/
+.idea/
+*.swp
