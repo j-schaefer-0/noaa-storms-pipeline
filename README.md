@@ -19,7 +19,7 @@ Total runtime: about 40 seconds for a typical year on a home internet connection
 Requires GDAL (for `ogr2ogr`) and standard Unix utilities (`curl`, `gunzip`).
 
 ```bash
-git clone https://github.com/{your-username}/noaa-storms-pipeline.git
+git clone https://github.com/j-schaefer-0/noaa-storms-pipeline.git
 cd noaa-storms-pipeline
 chmod +x pipeline.sh
 ./pipeline.sh
